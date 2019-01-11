@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javafx-licences-simple.iml" filepath="$PROJECT_DIR$/.idea/modules/javafx-licences-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javafx-licences-simple-build.iml" filepath="$PROJECT_DIR$/.idea/modules/javafx-licences-simple-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/licences-javafx_945.iml" filepath="$PROJECT_DIR$/.idea/modules/licences-javafx_945.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/licences-javafx_945-build.iml" filepath="$PROJECT_DIR$/.idea/modules/licences-javafx_945-build.iml" />
+    </modules>
+  </component>
+</project>

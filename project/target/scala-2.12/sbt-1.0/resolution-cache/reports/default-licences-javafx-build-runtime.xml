@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="default"
+		module="licences-javafx-build"
+		revision="0.1.0-SNAPSHOT"
+		extra-scalaVersion="2.12"
+		extra-sbtVersion="1.0"
+		conf="runtime"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
+		date="20190111180253"/>
+	<dependencies>
+		<module organisation="com.quadstingray" name="sbt-javafx">
+			<revision name="1.4.0" status="release" pubdate="20181018165526" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://quadstingray.github.io/sbt-javafx/" extra-scalaVersion="2.12" extra-sbtVersion="1.0" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="3">
+				<license name="Apache-2.0" url="https://github.com/QuadStingray/sbt-javafx/blob/master/LICENSE"/>
+				<metadata-artifact status="no" details="" size="2787" time="0" location="C:\Users\Gennadii Genin\.ivy2\cache\scala_2.12\sbt_1.0\com.quadstingray\sbt-javafx\ivy-1.4.0.xml" searched="false" origin-is-local="false" origin-location="https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.quadstingray/sbt-javafx/scala_2.12/sbt_1.0/1.4.0/ivys/ivy.xml"/>
+				<caller organisation="default" name="licences-javafx-build" conf="compile, runtime" rev="1.4.0" rev-constraint-default="1.4.0" rev-constraint-dynamic="1.4.0" callerrev="0.1.0-SNAPSHOT" extra-scalaVersion="2.12" extra-sbtVersion="1.0"/>
+				<artifacts>
+					<artifact name="sbt-javafx" type="jar" ext="jar" status="no" details="" size="101236" time="0" location="C:\Users\Gennadii Genin\.ivy2\cache\scala_2.12\sbt_1.0\com.quadstingray\sbt-javafx\jars\sbt-javafx-1.4.0.jar">
+						<origin-location is-local="false" location="https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.quadstingray/sbt-javafx/scala_2.12/sbt_1.0/1.4.0/jars/sbt-javafx.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.apache.ant" name="ant">
+			<revision name="1.10.5" status="release" pubdate="20180710065403" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://ant.apache.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="4">
+				<license name="The Apache Software License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="3613" time="0" location="C:\Users\Gennadii Genin\.ivy2\cache\org.apache.ant\ant\ivy-1.10.5.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/ant/ant/1.10.5/ant-1.10.5.pom"/>
+				<caller organisation="com.quadstingray" name="sbt-javafx" conf="compile" rev="1.10.5" rev-constraint-default="1.10.5" rev-constraint-dynamic="1.10.5" callerrev="1.4.0"/>
+				<artifacts>
+					<artifact name="ant" type="jar" ext="jar" status="no" details="" size="2216652" time="0" location="C:\Users\Gennadii Genin\.ivy2\cache\org.apache.ant\ant\jars\ant-1.10.5.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/ant/ant/1.10.5/ant-1.10.5.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.apache.ant" name="ant-launcher">
+			<revision name="1.10.5" status="release" pubdate="20180710065752" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://ant.apache.org/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="5">
+				<license name="The Apache Software License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="2822" time="0" location="C:\Users\Gennadii Genin\.ivy2\cache\org.apache.ant\ant-launcher\ivy-1.10.5.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/ant/ant-launcher/1.10.5/ant-launcher-1.10.5.pom"/>
+				<caller organisation="org.apache.ant" name="ant" conf="default, compile, runtime, master" rev="1.10.5" rev-constraint-default="1.10.5" rev-constraint-dynamic="1.10.5" callerrev="1.10.5"/>
+				<artifacts>
+					<artifact name="ant-launcher" type="jar" ext="jar" status="no" details="" size="18827" time="0" location="C:\Users\Gennadii Genin\.ivy2\cache\org.apache.ant\ant-launcher\jars\ant-launcher-1.10.5.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/ant/ant-launcher/1.10.5/ant-launcher-1.10.5.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-sbt" name="global-plugins">
+			<revision name="0.0" status="integration" pubdate="20190111180216" resolver="inter-project" artresolver="inter-project" extra-scalaVersion="2.12" extra-sbtVersion="1.0" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="0">
+				<metadata-artifact status="failed" details="" size="0" time="0" searched="false"/>
+				<caller organisation="default" name="licences-javafx-build" conf="compile, runtime" rev="0.0" rev-constraint-default="0.0" rev-constraint-dynamic="0.0" callerrev="0.1.0-SNAPSHOT" extra-scalaVersion="2.12" extra-sbtVersion="1.0"/>
+				<artifacts>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.jetbrains" name="sbt-idea-shell">
+			<revision name="2018.3" status="release" pubdate="20181105210000" resolver="sbt-chain" artresolver="sbt-chain" extra-scalaVersion="2.12" extra-sbtVersion="1.0" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="2">
+				<license name="Apache-2.0" url="http://www.apache.org/licenses/LICENSE-2.0.html"/>
+				<metadata-artifact status="no" details="" size="2423" time="0" location="C:\Users\Gennadii Genin\.ivy2\cache\scala_2.12\sbt_1.0\org.jetbrains\sbt-idea-shell\ivy-2018.3.xml" searched="false" origin-is-local="false" origin-location="https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.jetbrains/sbt-idea-shell/scala_2.12/sbt_1.0/2018.3/ivys/ivy.xml"/>
+				<caller organisation="org.scala-sbt" name="global-plugins" conf="compile" rev="2018.3" rev-constraint-default="2018.3" rev-constraint-dynamic="2018.3" callerrev="0.0" extra-scalaVersion="2.12" extra-sbtVersion="1.0"/>
+				<artifacts>
+					<artifact name="sbt-idea-shell" type="jar" ext="jar" status="no" details="" size="10705" time="0" location="C:\Users\Gennadii Genin\.ivy2\cache\scala_2.12\sbt_1.0\org.jetbrains\sbt-idea-shell\jars\sbt-idea-shell-2018.3.jar">
+						<origin-location is-local="false" location="https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.jetbrains/sbt-idea-shell/scala_2.12/sbt_1.0/2018.3/jars/sbt-idea-shell.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.jetbrains" name="sbt-structure-extractor">
+			<revision name="2018.2.1+4-88400d3f" status="integration" pubdate="20180919230826" resolver="sbt-chain" artresolver="sbt-chain" extra-scalaVersion="2.12" extra-sbtVersion="1.0" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="1">
+				<license name="Apache-2.0" url="http://www.apache.org/licenses/LICENSE-2.0.html"/>
+				<metadata-artifact status="no" details="" size="2069" time="0" location="C:\Users\Gennadii Genin\.ivy2\cache\scala_2.12\sbt_1.0\org.jetbrains\sbt-structure-extractor\ivy-2018.2.1+4-88400d3f.xml" searched="false" origin-is-local="false" origin-location="https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.jetbrains/sbt-structure-extractor/scala_2.12/sbt_1.0/2018.2.1+4-88400d3f/ivys/ivy.xml"/>
+				<caller organisation="org.scala-sbt" name="global-plugins" conf="compile" rev="2018.2.1+4-88400d3f" rev-constraint-default="2018.2.1+4-88400d3f" rev-constraint-dynamic="2018.2.1+4-88400d3f" callerrev="0.0" extra-scalaVersion="2.12" extra-sbtVersion="1.0"/>
+				<artifacts>
+					<artifact name="sbt-structure-extractor" type="jar" ext="jar" status="no" details="" size="367489" time="0" location="C:\Users\Gennadii Genin\.ivy2\cache\scala_2.12\sbt_1.0\org.jetbrains\sbt-structure-extractor\jars\sbt-structure-extractor-2018.2.1+4-88400d3f.jar">
+						<origin-location is-local="false" location="https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.jetbrains/sbt-structure-extractor/scala_2.12/sbt_1.0/2018.2.1+4-88400d3f/jars/sbt-structure-extractor.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>

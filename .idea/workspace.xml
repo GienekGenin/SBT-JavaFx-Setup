@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f2d6661-da48-4c67-b073-ef17491ebadd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_openjfx_javafx_base_11_win_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_openjfx_javafx_controls_11_win_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_openjfx_javafx_fxml_11_win_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_openjfx_javafx_graphics_11_win_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_openjfx_javafx_media_11_win_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_openjfx_javafx_web_11_win_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/javafx-licences-simple-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/javafx-licences-simple.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/licences-javafx_945-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/licences-javafx_945.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/plugins.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$4224985fe2df5f90bc51$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$4224985fe2df5f90bc51.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$4224985fe2df5f90bc51.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$07e780298e3ea8112b73$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$07e780298e3ea8112b73.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$07e780298e3ea8112b73.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$102baeb66af7bbea9034$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$102baeb66af7bbea9034.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$102baeb66af7bbea9034.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$1b7ae07de261d0c9b6b9$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$1b7ae07de261d0c9b6b9.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$1b7ae07de261d0c9b6b9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$26f6780fababc757cccc$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$26f6780fababc757cccc.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$26f6780fababc757cccc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$29eab25d898d0324b482$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$29eab25d898d0324b482.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$29eab25d898d0324b482.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$40fdbc6d33dbe49759c4$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$40fdbc6d33dbe49759c4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$40fdbc6d33dbe49759c4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$615aad0512cff82ffca5$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$615aad0512cff82ffca5.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$615aad0512cff82ffca5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$7ca8aee50c2b0197527c$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$7ca8aee50c2b0197527c.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$7ca8aee50c2b0197527c.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$9368d631a75653cdd16e$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$9368d631a75653cdd16e.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$9368d631a75653cdd16e.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$a64f31b77e03196ecbdb$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$a64f31b77e03196ecbdb.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$a64f31b77e03196ecbdb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$adb4bcb443a56cdc1324$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$adb4bcb443a56cdc1324.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$adb4bcb443a56cdc1324.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$b53e4583992dcbba454f$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$b53e4583992dcbba454f.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$b53e4583992dcbba454f.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$b5914462a569c02c0f58$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$b5914462a569c02c0f58.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$b5914462a569c02c0f58.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$bd690b1cc0537feb4720$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$bd690b1cc0537feb4720.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$bd690b1cc0537feb4720.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$be0bd978e30386ad94a2$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$be0bd978e30386ad94a2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$be0bd978e30386ad94a2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$c65a1b91d18c9bf7ddcc$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$c65a1b91d18c9bf7ddcc.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$c65a1b91d18c9bf7ddcc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$efb77b33f83fe75feb8d$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$efb77b33f83fe75feb8d.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$efb77b33f83fe75feb8d.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/licences-javafx-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/licences-javafx-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-licences-javafx-build-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-licences-javafx-build-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-licences-javafx-build-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-licences-javafx-build-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-licences-javafx-build-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-licences-javafx-build-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-licences-javafx-build-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-licences-javafx-build-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-licences-javafx-build-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-licences-javafx-build-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-licences-javafx-build-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/$global/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/ivySbt/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compile/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com.quadstingray.javafx.sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/quadstingray/javafx/sample/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/com/quadstingray/javafx/sample/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/javafx-licences-simple_2.12-0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/com.quadstingray/javafx-licences-simple_2.12/0.1/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/com.quadstingray/javafx-licences-simple_2.12/0.1/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/org.scala-sbt.temp/temp-module-98ec89c315ed408f615fff2c4774286d17323b01/1.2.1/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/org.scala-sbt.temp/temp-module-98ec89c315ed408f615fff2c4774286d17323b01/1.2.1/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.quadstingray-javafx-licences-simple_2.12-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.quadstingray-javafx-licences-simple_2.12-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.quadstingray-javafx-licences-simple_2.12-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.quadstingray-javafx-licences-simple_2.12-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.quadstingray-javafx-licences-simple_2.12-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.quadstingray-javafx-licences-simple_2.12-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.quadstingray-javafx-licences-simple_2.12-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.quadstingray-javafx-licences-simple_2.12-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.quadstingray-javafx-licences-simple_2.12-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.quadstingray-javafx-licences-simple_2.12-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/com.quadstingray-javafx-licences-simple_2.12-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/ivy-report.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/ivy-report.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/org.scala-sbt.temp-temp-module-98ec89c315ed408f615fff2c4774286d17323b01-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/$global/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/ivySbt/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/exportedProductJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/mainClass/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/dependencyClasspathAsJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/exportedProductJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/fullClasspathAsJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/internalDependencyAsJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="javafx-licences-simple" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="javafx-licences-simple" type="f1a62948:ProjectNode" />
+                <item name="javafx-licences-simple" type="2d1252cf:ModuleNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="22" selection-start-column="21" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com.quadstingray.javafx.sample/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#741#742#0" expanded="true" />
+                <element signature="e#807#808#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/project/plugins.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/com.quadstingray.javafx.sample/g.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com.quadstingray.javafx.sample/hello.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com.quadstingray.javafx.sample/Main.java" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="licences-javafx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="licences-javafx" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="javafx-licences-simple" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="licences-javafx [file:/D:/Bitstream/sbtProjects/licences-javafx/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="javafx-licences-simple-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="1315374684" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3771982881" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2185672544" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../PlayTutorials/BookStoreApp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PlayTutorials/Play2.0-BookStoreApp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PlayTutorials/play-java-hello-world-tutorial" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../PlayTutorials/play-java-jpa-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../hello-world-template" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../sbt-javafx-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../sbtJavaApp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../sbtTestProject" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scalafxtest" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f2d6661-da48-4c67-b073-ef17491ebadd" name="Default Changelist" comment="" />
+      <created>1547224406704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547224406704</updated>
+      <workItem from="1547224410417" duration="1726000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1726000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Build" weight="0.3289689" />
+      <window_info anchor="bottom" id="SBT Console" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="SBT Execute" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="sbt" weight="0.32980332" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com.quadstingray.javafx.sample/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com.quadstingray.javafx.sample/g.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com.quadstingray.javafx.sample/hello.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com.quadstingray.javafx.sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/build.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
